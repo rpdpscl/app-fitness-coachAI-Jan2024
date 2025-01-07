@@ -1,0 +1,68 @@
+I need a personalized fitness and nutrition plan with the following details:
+
+Attribute	Value	Description
+Age	29	Age of the individual.
+Height (cm)	172.0	Height in centimeters.
+Weight (kg)	73.5	Weight in kilograms.
+B.M.I.	24.8	Body Mass Index, calculated as weight (kg) / height (m²).
+P.B.F. (%)	17.5	Percentage of body fat.
+M.B.F. (%)	12.9	Percentage of muscle-bound fat.
+S.L.M. (kg)	56.9	Soft Lean Mass, the lean tissue excluding body water.
+S.M.M. (kg)	34.1	Skeletal Muscle Mass, the muscle weight attached to the skeleton.
+Body Water (liters)	44.2	Total body water in liters.
+Protein (kg)	12.7	Total body protein in kilograms.
+Minerals (kg)	3.7	Total mineral content in kilograms.
+Body Fat (kg)	12.9	Total weight of body fat in kilograms.
+Fat-Free Mass (kg)	60.6	Total mass excluding fat in kilograms.
+Physical Age	28	Estimated physical age based on body composition.
+BMR (kcal)	1679	Basal Metabolic Rate, calories required for resting energy expenditure.
+TDE (kcal)	2585	Total Daily Energy expenditure including activity.
+Left Arm (SLM, kg)	3.09	Soft Lean Mass in the left arm.
+Right Arm (SLM, kg)	3.04	Soft Lean Mass in the right arm.
+Left Leg (SLM, kg)	8.84	Soft Lean Mass in the left leg.
+Right Leg (SLM, kg)	8.76	Soft Lean Mass in the right leg.
+Trunk (SLM, kg)	25.21	Soft Lean Mass in the trunk.
+Left Arm (MBF, kg)	0.66	Muscle-Bound Fat in the left arm.
+Right Arm (MBF, kg)	0.71	Muscle-Bound Fat in the right arm.
+Left Leg (MBF, kg)	2.23	Muscle-Bound Fat in the left leg.
+Right Leg (MBF, kg)	2.3	Muscle-Bound Fat in the right leg.
+Trunk (MBF, kg)	6.94	Muscle-Bound Fat in the trunk. 
+
+GOAL: 
+Primary: Achieve visible abs while maintaining/slightly increasing muscle mass
+Dietary Approach: High protein, high fat, low carb diet (ketogenic-style approach)
+
+EXERCISE ROUTINE:
+- Weightlifting/bodybuilding 4x per week
+
+AVAILABLE FOOD SOURCES:
+Proteins:
+- Ground beef (90/10)
+- Chicken (thighs, legs, breast)
+- Eggs
+- Homemade plain yogurt
+
+Healthy Fats/Nuts:
+- Walnuts
+- Butter
+- Pistachio
+
+Beverages:
+- Almond milk
+- Walnut milk
+- Coconut milk
+- Coffee
+- Cocoa
+- Matcha
+
+DIETARY PREFERENCES:
+- Focus on high protein and healthy fats
+- Minimize carbohydrate intake
+- Willing to follow a ketogenic or very low-carb approach
+
+Please provide:
+1. Daily caloric target and macro breakdown for body recomposition (emphasizing protein and fats)
+2. Estimated timeline to reach visible abs while preserving muscle mass - if possible to reach it in 3 months 
+3. Target body fat percentage for visible abs
+4. Meal planning suggestions using only the listed food items, structured for a low-carb, high-protein diet
+5. Any additional recommendations for optimizing results on a low-carb approach
